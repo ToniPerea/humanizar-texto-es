@@ -2,7 +2,7 @@
   "plugins": [
     {
       "name": "humanizar-texto-es",
-      "description": "Reescribe texto en español generado por IA para que suene naturalmente humano, usando 11 técnicas lingüísticas simultáneas.",
+      "description": "Reescribe texto en español generado por IA para que suene naturalmente humano. Modo informal (blogs, divulgación) y modo académico/científico (TFG, TFM, artículos) con técnicas lingüísticas diferenciadas.",
       "repo": "ToniPerea/humanizar-texto-es",
       "skill": "SKILL.md"
     }
